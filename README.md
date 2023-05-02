@@ -1,2 +1,7 @@
 # binary-coco-to-png
-Creating corresponding mask PNG files from a coco.json
+
+Labelstudio doesn't allow exporting image masks created using Polygonalabels as PNGs. But it allows exporting to the Coco format. 
+
+
+This script shows how to generate mask pngs from a coco json file.
+
